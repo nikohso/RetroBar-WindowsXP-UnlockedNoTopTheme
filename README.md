@@ -1,5 +1,5 @@
 # RetroBar-WindowsXP-UnlockedNoTopTheme
-This is just a modified theme for RetroBar all credit goes to the RetroBar team
+**This is just a modified theme for RetroBar all credit goes to the RetroBar team**
 
 The theme lets you remove the top bar of the unlocked taskbar, which means that you can keep the the little spacers in the quick access section
 
